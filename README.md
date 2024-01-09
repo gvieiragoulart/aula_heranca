@@ -7,6 +7,12 @@ PHP (Hypertext Preprocessor) é uma linguagem de programação amplamente utiliz
 
 - Grande Comunidade: Uma comunidade ativa de desenvolvedores PHP proporciona suporte e recursos valiosos, tornando mais fácil aprender e resolver problemas.
 
+- Oportunidades: 70% da web utiliza PHP nos dias de hoje.
+
+- Grandes Empresas: Facebook, Slack, Yahoo, Twitch, IBM...
+
+- Fácil Implementação
+
 ## Variáveis em PHP
 Variáveis são como recipientes para armazenar dados. Elas são usadas para manter informações que podem ser alteradas durante a execução do programa. Vamos ver um exemplo prático:
 
