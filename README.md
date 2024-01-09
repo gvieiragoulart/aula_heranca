@@ -28,6 +28,7 @@ Neste exemplo, criamos duas variáveis, $nome e $idade, e as utilizamos para com
 Funções são blocos de código que realizam uma tarefa específica. Elas ajudam a organizar e reutilizar o código. Vejamos um exemplo simples:
 
 ```php
+<?php
 function saudacao($nome) {
     echo "Olá, $nome!";
 }
@@ -64,6 +65,7 @@ Aqui, criamos uma classe Carro com duas propriedades ($modelo e $cor) e uma fun�
 A herança permite que uma classe herde propriedades e métodos de outra classe. Isso promove a reutilização de código. Vejamos um exemplo simples:
 
 ```php
+
 class Animal {
     public function som() {
         echo "Som genérico do animal.";
@@ -75,9 +77,10 @@ class Cachorro extends Animal {
         echo "Au Au!";
     }
 }
-```
+
 $cachorro = new Cachorro();
 $cachorro->som(); // Exibe "Au Au!"
+```
 
 Neste exemplo, a classe Cachorro herda da classe Animal e sobrescreve o método som para exibir um som específico de cachorro.
 
