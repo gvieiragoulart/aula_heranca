@@ -40,6 +40,8 @@ Aqui, criamos uma função chamada saudacao que recebe um parâmetro $nome e exi
 Em PHP, objetos são instâncias de classes, que são modelos para criar estruturas mais complexas. Vamos ver um exemplo básico:
 
 ```php
+<?php
+
 class Carro {
     public $modelo;
     public $cor;
@@ -54,6 +56,7 @@ $carro1->modelo = "Fusca";
 $carro1->cor = "Azul";
 
 $carro1->exibirDetalhes();
+<?php
 ```
 Aqui, criamos uma classe Carro com duas propriedades ($modelo e $cor) e uma função (exibirDetalhes) para mostrar informações sobre o carro.
 
