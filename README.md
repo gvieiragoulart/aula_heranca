@@ -1,9 +1,3 @@
-# aula_heranca
-
-
-# Guia Básico para Iniciantes em PHP
-## Bem-vindo ao mundo da programação web com PHP! Se você está começando nesse universo fascinante, este guia é perfeito para você. Aqui, vamos abordar alguns conceitos fundamentais de PHP de uma maneira amigável e prática.
-
 ## Por que Aprender PHP?
 PHP (Hypertext Preprocessor) é uma linguagem de programação amplamente utilizada para o desenvolvimento de websites dinâmicos. Aprender PHP oferece várias vantagens, incluindo:
 
